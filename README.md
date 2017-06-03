@@ -1,4 +1,4 @@
-# PHP 7 Docker configuration
+# Docker PHP 7 Environment
 
 This Docker create a PHP 7 environment with the following middleware:
 
@@ -17,8 +17,8 @@ To configure Docker for setting up a PHP 7 Development environment you need to:
 ## Build your container and start the server
 To make everything up & running, execute the commands:
 
-- docker-compose build
-- docker-compose up
+- `docker-compose buil`
+- `docker-compose u`
 
 Once all is ready:
 
