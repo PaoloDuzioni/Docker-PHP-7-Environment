@@ -5,7 +5,7 @@ This Docker create a PHP 7 environment with the following middleware:
  - PHP 7.0
  - MariaDB MySql latest engine
  
-*Contains **Xdebug** for PHP errors*
+*Comes with **Xdebug** for PHP errors and **PHPMyAdmin** for database management*
 
 ## Configuration
 To configure Docker for setting up a PHP 7 Development environment you need to:
